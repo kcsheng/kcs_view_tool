@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+KcsViewTool::Renderer.copyright("KC Sheng", "All rights reserved")
+```
 
 ## Development
 
